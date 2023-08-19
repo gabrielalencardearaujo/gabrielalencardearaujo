@@ -1,6 +1,7 @@
 ## Olá, Gabriel aqui!
 
 ![Gabriel Alencar GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalencardearaujo&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencardearaujo&layout=donut-vertical)](https://github.com/gabrielalencardearaujo/github-readme-stats)
 
 
 ## Minhas tecnologias:
