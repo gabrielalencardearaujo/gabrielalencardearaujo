@@ -17,9 +17,6 @@
       <img alt="css3" src="https://skillicons.dev/icons?i=css" width="55">
     </td>
     <td align="center">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="90" height="90">
-    </td>
-    <td align="center">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="90" height="90">
     </td>
     <td align="center" width="120">
@@ -85,6 +82,12 @@
     </td>
     <td align="center" width="120" height="120">
       <img alt="git" src="https://skillicons.dev/icons?i=git" width="55">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="90" height="90">
     </td>
   </tr>
 </table>
