@@ -8,5 +8,5 @@
 
 ## Tecnologias
 <div>
-  <img alt="HTML5" src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,ts,bootstrap,tailwind,mongodb,figma,)](https://skillicons.dev">
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=html,css,sass,js,nodejs,ts,bootstrap,tailwind,mongodb,figma,linux,)](https://skillicons.dev">
 </div>
