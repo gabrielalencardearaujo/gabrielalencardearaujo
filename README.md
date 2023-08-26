@@ -34,6 +34,6 @@
 <div>
   <h3 align="center">Visitantes:</h3><br>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/gabrielalencardearaujo/count.svg" />
+    <img src="https://profile-counter.glitch.me/gabrielalencardearaujo/count.svg">
   </p>  
 </div>
