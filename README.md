@@ -51,6 +51,9 @@
     <td align="center">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="70">
     </td>
+     <td align="center" width="120">
+      <img alt="figma" src="https://skillicons.dev/icons?i=figma" width="55">
+    </td>
   </tr>
   <tr>
     <td align="center" height="120">
@@ -71,11 +74,11 @@
     <td align="center" width="120" height="120">
       <img alt="vscode" src="https://skillicons.dev/icons?i=vscode" width="55">
     </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70">
+    </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <img alt="figma" src="https://skillicons.dev/icons?i=figma" width="55">
-    </td>
     <td align="center" width="120" height="120">
       <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="55">
     </td>
@@ -84,9 +87,6 @@
     </td>
      <td align="center" width="120" height="120">
       <img alt="php" src="https://skillicons.dev/icons?i=gcp" width="55">
-    </td>
-    <td align="center">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70">
     </td>
   </tr>
 </table>
