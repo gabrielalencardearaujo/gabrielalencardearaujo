@@ -26,5 +26,14 @@
 
 ### Development
 <div>
-  <img alt="HTML5" src="https://skillicons.dev/icons?i=vscode,git,linux,)](https://skillicons.dev">
+  <img alt="HTML5" src="https://skillicons.dev/icons?i=vscode,git,linux,idea,)](https://skillicons.dev">
+</div>
+
+<hr>
+
+<div>
+  <h3 align="center">Visitantes:</h3><br>
+  <p align="center">
+    <img src="https://profile-counter.glitch.me/gabrielalencardearaujo/count.svg" />
+  </p>  
 </div>
