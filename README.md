@@ -68,14 +68,8 @@
     <td align="center" width="120" height="120">
       <img alt="jquery" src="https://skillicons.dev/icons?i=jquery" width="55">
     </td>
-    <td align="center" width="120" height="120">
-      <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs" width="55">
-    </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="eslint" width="70">
-    </td>
-    <td align="center" width="120" height="120">
-      <img alt="vue" src="https://skillicons.dev/icons?i=vue" width="55">
     </td>
     <td align="center" width="120" height="120">
       <img alt="intellij" src="https://skillicons.dev/icons?i=idea" width="55">
@@ -84,15 +78,13 @@
       <img alt="vercel" src="https://skillicons.dev/icons?i=vercel" width="55">
     </td>
     <td align="center" width="120" height="120">
-      <img alt="git" src="https://skillicons.dev/icons?i=git" width="55">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120" height="120">
       <img alt="vscode" src="https://skillicons.dev/icons?i=vscode" width="55">
     </td>
     <td align="center" width="120" height="120">
       <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="55">
+    </td>
+    <td align="center" width="120" height="120">
+      <img alt="git" src="https://skillicons.dev/icons?i=git" width="55">
     </td>
   </tr>
 </table>
