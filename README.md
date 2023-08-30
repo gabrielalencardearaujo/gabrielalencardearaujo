@@ -32,12 +32,11 @@
     <td align="center">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" width="90" height="70">
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <img alt="figma" src="https://skillicons.dev/icons?i=figma" width="55">
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="70">
     </td>
