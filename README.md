@@ -96,19 +96,19 @@
 <table>
   <tr>
     <td align="center" width="120" height="120">
-      <img alt="intellij" src="https://skillicons.dev/icons?i=idea" width="55">
-    </td>
-    <td align="center" width="120" height="120">
       <img alt="vscode" src="https://skillicons.dev/icons?i=vscode" width="55">
-    </td>
-    <td align="center" width="120" height="120">
-      <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="55">
     </td>
     <td align="center" width="120" height="120">
       <img alt="git" src="https://skillicons.dev/icons?i=git" width="55">
     </td>
     <td align="center" width="120" height="120">
       <img alt="github" src="https://skillicons.dev/icons?i=github" width="55">
+    </td>
+    <td align="center" width="120" height="120">
+      <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="55">
+    </td>
+    <td align="center" width="120" height="120">
+      <img alt="intellij" src="https://skillicons.dev/icons?i=idea" width="55">
     </td>
   </tr>
 </table>
