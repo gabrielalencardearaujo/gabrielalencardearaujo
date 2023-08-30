@@ -52,11 +52,14 @@
     <td align="center" width="120" height="120">
       <img border="1" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" width="55">
     </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="70" margin="20">
+    </td>
     <td align="center" width="120" height="120">
       <img border="1" alt="mongodb" src="https://skillicons.dev/icons?i=mongodb" width="55">
     </td>
-    <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="70" margin="20">
+    <td align="center" height="120" width="120">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="70">
     </td>
     <td align="center" width="120" height="120">
       <img alt="express" src="https://skillicons.dev/icons?i=express" width="55">
@@ -66,9 +69,6 @@
     </td>
     <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="eslint" width="70">
-    </td>
-    <td align="center" height="120" width="120">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" width="70">
     </td>
   </tr>
 </table>
