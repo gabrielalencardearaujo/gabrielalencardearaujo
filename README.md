@@ -1,9 +1,9 @@
 ## Olá, Gabriel aqui!
 
-<!--<kbd>
+<kbd>
   <img height="195px" alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=gabrielalencardearaujo&show_icons=true&theme=dracula">
   <img height="195px" alt="HTML5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencardearaujo&layout=compact">
-</kbd>-->
+</kbd>
 
 
 ## Tecnologias
