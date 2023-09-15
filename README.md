@@ -77,9 +77,6 @@
 <table>
   <tr>
     <td align="center" width="120" height="120">
-      <img alt="vuejs" src="https://skillicons.dev/icons?i=vue" width="55">
-    </td>
-    <td align="center" width="120" height="120">
       <img alt="vercel" src="https://skillicons.dev/icons?i=vercel" width="55">
     </td>
     <td align="center" width="120" height="120">
