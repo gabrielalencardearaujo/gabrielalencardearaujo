@@ -1,5 +1,9 @@
 ## Olá, Gabriel aqui!
 
+<p>
+  Eu me chamo Gabriel Alencar e sou desenvolvedor freelancer frontend, MERN Stack. Trabalho no setor de logistica e faço alguns projetos visando facilitar e automatizar alguns processos rotineiros onde trabalho, estou em transição de carreira em busca de uma oportunidade para mergulhar na área TI como desenvolvedor Frontend ou FullStack JS. Sou formado em Matematica pela UFPE, atualmente estou no curso de Análise e Desenvolvimento de Sistemas na PUCPR e fiz curso técnico em informatica onde comecei a ter contato com a programação, mas naquela época não me despertou grande interesse. Vários anos depois comecei a esdudar JS de maneira autonoma para alguns projetos no trabalho e foi quando comecei a me apaixonar pela programação, principalmente pelo frontend. Oque começou apenas com o intuito de facilitar a minha vida no trabalho, passou a se tornar um paixão área de TI. Comecei a me aprofundar em JS e TS, e segui pela linha MERN (Mongo, Express, React e Node).
+</p>
+
 <kbd>
   <img height="195px" alt="HTML5" src="https://github-readme-stats.vercel.app/api?username=gabrielalencardearaujo&show_icons=true&theme=dracula">
   <img height="195px" alt="HTML5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencardearaujo&layout=compact">
