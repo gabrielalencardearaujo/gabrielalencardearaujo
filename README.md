@@ -1,7 +1,7 @@
 ## Olá, Gabriel aqui!
 
 <p>
-  Eu sou Gabriel Alencar e sou desenvolvedor freelancer frontend, MERN Stack. Comecei estudando programação para facilitar alguns processos rotineiros no meu tabalho e acabei me apaixonando pela área. Sou formado em matemática pela UFPE e atualmente curso Análise e Desenvolvimento de sistemas na PUCPR e atualmente trabaho autônomo como freelancer. Estou em processo de transição de carreira e procuro uma orportunidade na área de TI para mergulhar de cabeça no mundo da programação.
+  Eu me chamo Gabriel Alencar e sou desenvolvedor freelancer frontend, MERN Stack. Comecei estudando programação para facilitar alguns processos rotineiros no meu tabalho e acabei me apaixonando pela área. Sou formado em matemática pela UFPE e atualmente curso Análise e Desenvolvimento de sistemas na PUCPR e atualmente trabaho autônomo como freelancer. Estou em processo de transição de carreira e procuro uma orportunidade na área de TI para mergulhar de cabeça no mundo da programação.
 </p>
 
 <kbd>
