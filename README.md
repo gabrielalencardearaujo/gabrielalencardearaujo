@@ -47,6 +47,9 @@
     <td align="center" width="120" height="120">
       <img alt="jquery" src="https://skillicons.dev/icons?i=jquery" width="55">
     </td>
+    <td align="center" width="120" height="120">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
+    </td>
   </tr>
 </table>
 
