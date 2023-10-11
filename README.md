@@ -87,7 +87,7 @@
       <img alt="vercel" src="https://skillicons.dev/icons?i=vercel" width="55">
     </td>
     <td align="center" width="120" height="120">
-      <img alt="aws" src="https://skillicons.dev/icons?i=aws" width="55">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="75" height="85" />
     </td>
     <td align="center" width="120" height="120">
       <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs" width="55">
