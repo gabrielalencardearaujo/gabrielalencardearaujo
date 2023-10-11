@@ -106,7 +106,7 @@
       <img alt="git" src="https://skillicons.dev/icons?i=git" width="55">
     </td>
     <td align="center" width="120" height="120">
-      <img alt="github" src="https://skillicons.dev/icons?i=github" width="55">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
     </td>
     <td align="center" width="120" height="120">
       <img alt="linux" src="https://skillicons.dev/icons?i=linux" width="55">
