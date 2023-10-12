@@ -10,9 +10,9 @@
 </kbd>
 
 
-## Tecnologias
+## Technologies
 
-### Principais:
+### Main:
 <table>
   <tr>
     <td align="center" width="120">
@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-### Basico:
+### Basic:
 <table>
   <tr>
     <td align="center" width="120" height="120">
@@ -80,7 +80,7 @@
   </tr>
 </table>
 
-### Estudando:
+### Studying:
 <table>
   <tr>
     <td align="center" width="120" height="120">
@@ -96,7 +96,7 @@
 </table>
 
 
-### Ferramentas:
+### Developer Tools:
 <table>
   <tr>
     <td align="center" width="120" height="120">
