@@ -45,9 +45,6 @@
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="70">
     </td>
     <td align="center" width="120" height="120">
-      <img alt="jquery" src="https://skillicons.dev/icons?i=jquery" width="55">
-    </td>
-    <td align="center" width="120" height="120">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
     </td>
   </tr>
@@ -76,6 +73,14 @@
     </td>
     <td align="center" width="120">
       <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="eslint" width="70">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img border="1" alt="html5" src="https://skillicons.dev/icons?i=vite" width="55">
+    </td>
+    <td align="center" width="120" height="120">
+      <img alt="jquery" src="https://skillicons.dev/icons?i=jquery" width="55">
     </td>
   </tr>
 </table>
