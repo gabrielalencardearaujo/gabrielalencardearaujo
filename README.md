@@ -9,7 +9,6 @@
   <img height="195px" alt="HTML5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencardearaujo&layout=compact">
 </kbd>
 
-
 ## Technologies
 
 ### Main:
@@ -77,8 +76,16 @@
     <td align="center" width="120" height="120">
       <img alt="jquery" src="https://skillicons.dev/icons?i=jquery" width="55">
     </td>
-    <td align="center" width="120">
+    <td align="center" width="120" heigth="120">
       <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind" width="55">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest" width="70">
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RestAPI" width="65" height="65" />
     </td>
   </tr>
 </table>
