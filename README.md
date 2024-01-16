@@ -41,16 +41,19 @@
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="70">
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
-    </td>
-    <td align="center" width="120" height="120">
       <img border="1" alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" width="55">
     </td>
      <td align="center" width="120" height="120">
       <img alt="express" src="https://skillicons.dev/icons?i=express" width="55">
     </td>
     <td align="center" width="120" height="120">
-      <img border="1" alt="html5" src="https://skillicons.dev/icons?i=vite" width="55">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="80" height="80" />
+    </td>
+    <td align="center" width="120" height="120">
+      <img border="1" alt="vite" src="https://skillicons.dev/icons?i=vite" width="55">
+    </td>
+    <td align="center" width="120" height="120">
+      <img border="1" alt="vitest" src="https://skillicons.dev/icons?i=vitest" width="55">
     </td>
   </tr>
 </table>
