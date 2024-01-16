@@ -30,17 +30,14 @@
     <td align="center" width="120">
       <img alt="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" width="55">
     </td>
-    <td align="center" width="120">
-      <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind" width="55">
-    </td>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" width="90" height="70">
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
+     <td align="center" width="120">
       <img alt="figma" src="https://skillicons.dev/icons?i=figma" width="60" height="60">
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="70">
     </td>
@@ -79,6 +76,9 @@
     </td>
     <td align="center" width="120" height="120">
       <img alt="jquery" src="https://skillicons.dev/icons?i=jquery" width="55">
+    </td>
+    <td align="center" width="120">
+      <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwind" width="55">
     </td>
   </tr>
 </table>
