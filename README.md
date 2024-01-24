@@ -51,8 +51,12 @@
     <img border="1" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" height="30">
     <img border="1" alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="30">
     <img border="1" alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30">
-    
-    
+  </div>
+
+### Testing
+  <div>
+      <img alt="vitest" src="https://img.shields.io/badge/Vitest-729b1b?style=for-the-badge&logoColor=000" height="30">
+      <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="30">
   </div>
   
 ### Developer Tools:
@@ -62,8 +66,6 @@
       <img alt="editorconfig" src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" height="30">
       <img alt="webpack" src="https://img.shields.io/badge/Webpack-204ECF?style=for-the-badge&logoColor=white" height="30">
       <img alt="vitejs" src="https://img.shields.io/badge/ViteJS-ffcd25?style=for-the-badge&logoColor=000" height="30">
-      <img alt="vitest" src="https://img.shields.io/badge/Vitest-729b1b?style=for-the-badge&logoColor=000" height="30">
-      <img alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="30">
       <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="30">
       <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30">
       <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="30">
