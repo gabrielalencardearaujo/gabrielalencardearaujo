@@ -79,7 +79,7 @@
 
 <kbd>
   <img height="195px" alt="status" src="https://github-readme-stats.vercel.app/api?username=gabrielalencardearaujo&show_icons=true&theme=dracula">
-  <img height="195px" alt="technologies commits" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencardearaujo&layout=compact">
+  <img height="195px" alt="technologies commits" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalencardearaujo&langs_count=8&layout=compact">
 </kbd>
 
 <hr>
